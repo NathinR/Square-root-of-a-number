@@ -24,7 +24,12 @@ RegisterNumber:
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+
+
+![image](https://user-images.githubusercontent.com/118679646/215083181-2cd2ef0b-30a8-46c2-8a6d-f5e00a73e812.png)
+
+
+
 
 
 ## Result:
